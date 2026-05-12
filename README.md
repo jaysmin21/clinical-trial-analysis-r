@@ -13,16 +13,6 @@ This project simulates a 400-patient randomized trial and walks through a comple
 
 The analysis is designed to mirror the structure of an industry biostatistics deliverable while remaining fully reproducible from a single script.
 
-## Repository contents
-
-```
-.
-├── Sminchak_Jay_Trial_Analysis.R   # main analysis script
-├── outputs/
-│   ├── Clinical_Trial_Analysis.xlsx   # generated: raw data + tables
-│   └── Table1_Baseline.docx           # generated: publication-style Table 1
-└── README.md
-```
 
 ## Methods summary
 
